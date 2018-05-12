@@ -1,0 +1,27 @@
+_repo: Cottage-Poems_17081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brontë, Patrick
+    alias: Bronte, Patrick
+    birthdate: 1777
+    deathdate: 1861
+    gutenberg_agent_id: '7125'
+    url: http://www.gutenberg.org/2009/agents/7125
+description: ''
+gutenberg_issued: '2005-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Cottage Poems
+url: http://www.gutenberg.org/ebooks/17081
